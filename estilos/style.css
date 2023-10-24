@@ -14,3 +14,7 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.438);
 }
+
+h1, h2, p {
+    color: rgb(188, 214, 238);
+}
